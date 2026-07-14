@@ -1,0 +1,12 @@
+../Core/Src/main.c:83:5:main	56	static
+../Core/Src/main.c:166:6:SystemClock_Config	88	static
+../Core/Src/main.c:207:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:255:13:MX_TIM3_Init	48	static
+../Core/Src/main.c:312:13:MX_TIM14_Init	40	static
+../Core/Src/main.c:358:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:382:6:my_SetLed	16	static
+../Core/Src/main.c:405:6:my_GetButton	16	static
+../Core/Src/main.c:413:6:my_UpdateScore	88	static
+../Core/Src/main.c:469:6:my_SaveHighScore	48	static
+../Core/Src/main.c:492:9:my_LoadHighScore	16	static
+../Core/Src/main.c:504:6:Error_Handler	8	static,ignoring_inline_asm

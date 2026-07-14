@@ -1,0 +1,12 @@
+../Core/Src/main.c:83:5:main	2
+../Core/Src/main.c:166:6:SystemClock_Config	3
+../Core/Src/main.c:207:13:MX_I2C1_Init	4
+../Core/Src/main.c:255:13:MX_TIM3_Init	6
+../Core/Src/main.c:312:13:MX_TIM14_Init	4
+../Core/Src/main.c:358:13:MX_GPIO_Init	1
+../Core/Src/main.c:382:6:my_SetLed	11
+../Core/Src/main.c:405:6:my_GetButton	5
+../Core/Src/main.c:413:6:my_UpdateScore	7
+../Core/Src/main.c:469:6:my_SaveHighScore	2
+../Core/Src/main.c:492:9:my_LoadHighScore	2
+../Core/Src/main.c:504:6:Error_Handler	1

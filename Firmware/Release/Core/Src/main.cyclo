@@ -1,0 +1,8 @@
+../Core/Src/main.c:385:6:my_UpdateScore	2
+../Core/Src/main.c:369:6:my_SetLed	5
+../Core/Src/main.c:377:6:my_GetButton	5
+../Core/Src/main.c:404:6:my_SaveHighScore	2
+../Core/Src/main.c:153:6:SystemClock_Config	3
+../Core/Src/main.c:427:9:my_LoadHighScore	2
+../Core/Src/main.c:76:5:main	13
+../Core/Src/main.c:439:6:Error_Handler	1

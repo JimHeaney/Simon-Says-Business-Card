@@ -1,0 +1,6 @@
+../Core/Src/simon_game.c:10:6:SimonGame_Init	24	static
+../Core/Src/simon_game.c:28:6:SimonGame_Update	40	static
+../Core/Src/simon_game.c:133:13:SimonGame_AddStep	16	static
+../Core/Src/simon_game.c:138:13:SimonGame_PlaySequence	32	static
+../Core/Src/simon_game.c:147:13:SimonGame_LightAll	24	static
+../Core/Src/simon_game.c:153:15:SimonGame_GetButtonPressed	24	static

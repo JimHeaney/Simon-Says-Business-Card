@@ -1,1 +1,2 @@
 [0713/210502.180:ERROR:ui\gl\direct_composition_support.cc:612] AMD VideoProcessorGetOutputExtension failed: The parameter is incorrect. (0x80070057)
+[0714/180305.796:ERROR:ui\gl\direct_composition_support.cc:612] AMD VideoProcessorGetOutputExtension failed: The parameter is incorrect. (0x80070057)

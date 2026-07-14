@@ -1,0 +1,4 @@
+../Core/Src/simon_game.c:147:13:SimonGame_LightAll	2
+../Core/Src/simon_game.c:153:15:SimonGame_GetButtonPressed	3
+../Core/Src/simon_game.c:10:6:SimonGame_Init	1
+../Core/Src/simon_game.c:28:6:SimonGame_Update	22
